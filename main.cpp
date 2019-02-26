@@ -2,7 +2,7 @@
 #include <stdio.h>
 using namespace std;
 
-//easy test git
+//clone dir
 
 int main(){
     cout << "Prog Sum!" << endl;
