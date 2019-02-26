@@ -2,6 +2,8 @@
 #include <stdio.h>
 using namespace std;
 
+//origin dir
+
 int main(){
     cout << "Prog Sum!" << endl;
     int a,b;
