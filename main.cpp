@@ -2,7 +2,7 @@
 #include <stdio.h>
 using namespace std;
 
-//easy test
+//easy test git
 
 int main(){
     cout << "Prog Sum!" << endl;
@@ -11,4 +11,5 @@ int main(){
     cout << "Result" << a+b << endl;
     getchar(); getchar();
     return 0;
+
 }
