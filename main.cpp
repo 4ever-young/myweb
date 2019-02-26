@@ -2,6 +2,8 @@
 #include <stdio.h>
 using namespace std;
 
+//easy test
+
 int main(){
     cout << "Prog Sum!" << endl;
     int a,b;
