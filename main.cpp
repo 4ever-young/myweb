@@ -2,13 +2,13 @@
 #include <stdio.h>
 using namespace std;
 
-//origin dir
+//master dir
 
 int main(){
-    cout << "Prog Sum!" << endl;
+    cout << "Prog +!" << endl;
     int a,b;
     cin >> a; cin >> b;
-    cout << "Result = " << a+b << endl;
+    cout << "Result is " << a+b << endl;
     getchar(); getchar();
     return 0;
 }
