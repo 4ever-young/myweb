@@ -3,6 +3,7 @@
 using namespace std;
 
 //master dir
+//clone dir
 
 int main(){
     cout << "Prog +!" << endl;
@@ -11,4 +12,5 @@ int main(){
     cout << "Result is " << a+b << endl;
     getchar(); getchar();
     return 0;
+
 }
